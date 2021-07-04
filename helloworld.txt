@@ -1,2 +1,4 @@
 heiii this is my first exercise in git
 email id changed
+
+hiiii i have learnt how to push the code in repository.
