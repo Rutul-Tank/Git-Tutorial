@@ -1,2 +1,2 @@
 heiii this is my first exercise in git
-email id canged
+email id changed
